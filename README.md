@@ -16,6 +16,11 @@
 
 ### 🚀 Featured Projects
 
+#### My Portfolio | arpitsocials.in
+- Built a faucet website for Solana Devnet wallet airdrops
+- Implemented user traffic monitoring and hourly airdrop limits
+- [Live Demo](https://arpitsocials.in)
+
 #### SolarpFaucet - Solana Airdrop Platform
 - Built a faucet website for Solana Devnet wallet airdrops
 - Implemented user traffic monitoring and hourly airdrop limits
