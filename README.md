@@ -50,6 +50,7 @@
 
 ### 🏆 Achievements
 - Java Android Dev and Flutter Dev Certified by Parul University
+- Web Dev Certified by ETH Pune 
 - Core Team Member at PU AI Society
 - IOSA Olympiad 2nd Runner-up
 - Vadodara Hackathon 4.0 Team Leader
