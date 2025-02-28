@@ -57,7 +57,7 @@
 
 <!-- ----------- STATS SECTION START ------------ -->
 <div align="center">
-<img width="410px" src="https://github-readme-stats.vercel.app/api?username=arpitmohankar&show_icons=true&count_private=true&icon_color=1f6feb&title_color=1f6feb&color=1fdbd8&bg_color=000000&border_color=1f6feb&text_color=1f6feb" />
+<img width="410px" src="https://github-readme-stats.vercel.app/api?username=arpitmohankar&show_icons=true&count_private=true&icon_color=800080&title_color=ff69b4&color=1fdbd8&bg_color=000000&border_color=1f6feb&text_color=87cefa" />
 <img width="410px" src="http://github-readme-streak-stats.herokuapp.com?user=arpitmohankar&date_format=M%20j%5B%2C%20Y%5D&sideNums=1f6feb&ring=1f6feb&background=000000&dates=1f6feb&currStreakNum=1f6feb&currStreakLabel=1f6feb&fire=1f6feb&sideLabels=1f6feb&stroke=1f6feb&border=1f6feb" />
 </div>
 
