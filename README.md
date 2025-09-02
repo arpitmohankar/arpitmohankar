@@ -1,6 +1,6 @@
 
 <!-- Dynamic Wave Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=280&section=header&text=ARPIT%20MOHANKAR&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20Tech%20Innovator&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=ARPIT%20MOHANKAR&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20Tech%20Innovator&descAlignY=55&descAlign=50)
 <!-- Animated Banner -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
